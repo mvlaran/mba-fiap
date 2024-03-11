@@ -1,6 +1,6 @@
 # Trabalhos desenvolvidos na disciplina Deep Learning 2 com Prof. [Felipe Teodoro](https://www.linkedin.com/in/teodorofelipe)
 
-Este repositório contém os exercícios desenvolvidos durante a disciplina de Deep Learning 2 ministrada pelo Prof. Felipe Teodoro.
+Este repositório contém os exercícios desenvolvidos durante a disciplina.
 
 ## Exercício 1
 - **Descrição:** [Calibração de Rede Neural Convolucional usando Dataset CIFAR10](Exercício%201/README.md)
