@@ -3,7 +3,7 @@
 Este repositório contém os exercícios desenvolvidos durante a disciplina.
 
 ## Exercício 1
-- **Descrição:** [Calibração de Rede Neural Convolucional usando Dataset CIFAR10](Exercício%201/README.md)
+- **Descrição:** [Calibração de Rede Neural Convolucional usando Dataset CIFAR10](Exerc%C3%ADcio%201/README.md)
 
 ## Exercício 2
 - **Descrição:** [Construção / Desenvolvimento de uma Rede Neural Convolucional para classificação utilizando Dataset Fashion MNIST](Exercício%202/README.md)
